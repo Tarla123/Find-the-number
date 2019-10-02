@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\1930118\desktop\game_findthenumber\game_findthenumber\game_findthenumber\main.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game_FindTheNumber.vcxproj -> C:\Users\1930118\Desktop\Game_FindTheNumber\Game_FindTheNumber\x64\Debug\Game_FindTheNumber.exe
